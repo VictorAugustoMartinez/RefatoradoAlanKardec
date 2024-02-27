@@ -1,0 +1,454 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\NVAlanKardec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\repositories\\alunorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\repositories\\alunorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\entities\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\entities\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\entities\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\entities\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\entities\\usuariobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\entities\\usuariobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\entities\\adm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\entities\\adm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\entities\\interfaces\\iusuariobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\entities\\interfaces\\iusuariobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\entities\\interfaces\\icurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\entities\\interfaces\\icurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32DDE36-C63D-4747-B3E9-C45EC66CF795}|NVAlanKardec.Core\\NVAlanKardec.Core.csproj|c:\\dev\\nvalankardec\\nvalankardec.core\\nvalankardec.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A32DDE36-C63D-4747-B3E9-C45EC66CF795}|NVAlanKardec.Core\\NVAlanKardec.Core.csproj|solutionrelative:nvalankardec.core\\nvalankardec.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\data\\configuracaomongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\data\\configuracaomongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\controllers\\admcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\controllers\\admcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\repositories\\cursorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\repositories\\cursorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\repositories\\admrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\repositories\\admrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\repositories\\professorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\repositories\\professorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\repositories\\interfaces\\icursorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\repositories\\interfaces\\icursorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\repositories\\interfaces\\irepositoriobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\repositories\\interfaces\\irepositoriobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\repositories\\interfaces\\iprofessorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\repositories\\interfaces\\iprofessorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\repositories\\interfaces\\ialunorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\repositories\\interfaces\\ialunorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\repositories\\interfaces\\iadmrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\repositories\\interfaces\\iadmrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\nvalankardec.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\nvalankardec.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|c:\\dev\\nvalankardec\\nvalankardec.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66A0DFF5-A417-4CFE-AE7B-671334BA6B34}|NVAlanKardec.Api\\NVAlanKardec.Api.csproj|solutionrelative:nvalankardec.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICurso.cs",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Entities\\Interfaces\\ICurso.cs",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\Entities\\Interfaces\\ICurso.cs",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Entities\\Interfaces\\ICurso.cs",
+              "RelativeToolTip": "NVAlanKardec.Api\\Entities\\Interfaces\\ICurso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T03:16:03.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUsuarioBase.cs",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Entities\\Interfaces\\IUsuarioBase.cs",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\Entities\\Interfaces\\IUsuarioBase.cs",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Entities\\Interfaces\\IUsuarioBase.cs",
+              "RelativeToolTip": "NVAlanKardec.Api\\Entities\\Interfaces\\IUsuarioBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T14:38:10.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Adm.cs",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Entities\\Adm.cs",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\Entities\\Adm.cs",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Entities\\Adm.cs",
+              "RelativeToolTip": "NVAlanKardec.Api\\Entities\\Adm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T14:31:52.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioBase.cs",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Entities\\UsuarioBase.cs",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\Entities\\UsuarioBase.cs",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Entities\\UsuarioBase.cs",
+              "RelativeToolTip": "NVAlanKardec.Api\\Entities\\UsuarioBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T14:32:37.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Entities\\Professor.cs",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\Entities\\Professor.cs",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Entities\\Professor.cs",
+              "RelativeToolTip": "NVAlanKardec.Api\\Entities\\Professor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T14:31:28.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Entities\\Curso.cs",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\Entities\\Curso.cs",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Entities\\Curso.cs",
+              "RelativeToolTip": "NVAlanKardec.Api\\Entities\\Curso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T20:16:54.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Program.cs",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\Program.cs",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Program.cs",
+              "RelativeToolTip": "NVAlanKardec.Api\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwBgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T15:07:12.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlunoRepositorio.cs",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Repositories\\AlunoRepositorio.cs",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\Repositories\\AlunoRepositorio.cs",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Repositories\\AlunoRepositorio.cs",
+              "RelativeToolTip": "NVAlanKardec.Api\\Repositories\\AlunoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T23:43:51.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NVAlanKardec.Core.csproj",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Core\\NVAlanKardec.Core.csproj",
+              "RelativeDocumentMoniker": "NVAlanKardec.Core\\NVAlanKardec.Core.csproj",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Core\\NVAlanKardec.Core.csproj",
+              "RelativeToolTip": "NVAlanKardec.Core\\NVAlanKardec.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-24T13:31:34.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfiguracaoMongo.cs",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Data\\ConfiguracaoMongo.cs",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\Data\\ConfiguracaoMongo.cs",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Data\\ConfiguracaoMongo.cs",
+              "RelativeToolTip": "NVAlanKardec.Api\\Data\\ConfiguracaoMongo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T00:38:27.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "NVAlanKardec.Api\\Controllers\\AlunoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T01:30:24.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CursoController.cs",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Controllers\\CursoController.cs",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\Controllers\\CursoController.cs",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Controllers\\CursoController.cs",
+              "RelativeToolTip": "NVAlanKardec.Api\\Controllers\\CursoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:10:47.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProfessorController.cs",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Controllers\\ProfessorController.cs",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\Controllers\\ProfessorController.cs",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Controllers\\ProfessorController.cs",
+              "RelativeToolTip": "NVAlanKardec.Api\\Controllers\\ProfessorController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:06:33.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdmController.cs",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Controllers\\AdmController.cs",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\Controllers\\AdmController.cs",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Controllers\\AdmController.cs",
+              "RelativeToolTip": "NVAlanKardec.Api\\Controllers\\AdmController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:04:17.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\appsettings.json",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\appsettings.json",
+              "RelativeToolTip": "NVAlanKardec.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-24T23:05:29.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdmRepositorio.cs",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Repositories\\AdmRepositorio.cs",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\Repositories\\AdmRepositorio.cs",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Repositories\\AdmRepositorio.cs",
+              "RelativeToolTip": "NVAlanKardec.Api\\Repositories\\AdmRepositorio.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T03:17:18.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CursoRepositorio.cs",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Repositories\\CursoRepositorio.cs",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\Repositories\\CursoRepositorio.cs",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Repositories\\CursoRepositorio.cs",
+              "RelativeToolTip": "NVAlanKardec.Api\\Repositories\\CursoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T03:19:12.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProfessorRepositorio.cs",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Repositories\\ProfessorRepositorio.cs",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\Repositories\\ProfessorRepositorio.cs",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Repositories\\ProfessorRepositorio.cs",
+              "RelativeToolTip": "NVAlanKardec.Api\\Repositories\\ProfessorRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T03:12:29.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICursoRepositorio.cs",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Repositories\\interfaces\\ICursoRepositorio.cs",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\Repositories\\interfaces\\ICursoRepositorio.cs",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Repositories\\interfaces\\ICursoRepositorio.cs",
+              "RelativeToolTip": "NVAlanKardec.Api\\Repositories\\interfaces\\ICursoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T03:13:18.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRepositorioBase.cs",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Repositories\\interfaces\\IRepositorioBase.cs",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\Repositories\\interfaces\\IRepositorioBase.cs",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Repositories\\interfaces\\IRepositorioBase.cs",
+              "RelativeToolTip": "NVAlanKardec.Api\\Repositories\\interfaces\\IRepositorioBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T23:37:19.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProfessorRepositorio.cs",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Repositories\\interfaces\\IProfessorRepositorio.cs",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\Repositories\\interfaces\\IProfessorRepositorio.cs",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Repositories\\interfaces\\IProfessorRepositorio.cs",
+              "RelativeToolTip": "NVAlanKardec.Api\\Repositories\\interfaces\\IProfessorRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T03:10:49.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAlunoRepositorio.cs",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Repositories\\interfaces\\IAlunoRepositorio.cs",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\Repositories\\interfaces\\IAlunoRepositorio.cs",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Repositories\\interfaces\\IAlunoRepositorio.cs",
+              "RelativeToolTip": "NVAlanKardec.Api\\Repositories\\interfaces\\IAlunoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T23:42:41.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IAdmRepositorio.cs",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Repositories\\interfaces\\IAdmRepositorio.cs",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\Repositories\\interfaces\\IAdmRepositorio.cs",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Repositories\\interfaces\\IAdmRepositorio.cs",
+              "RelativeToolTip": "NVAlanKardec.Api\\Repositories\\interfaces\\IAdmRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T03:11:01.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NVAlanKardec.Api.csproj",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\NVAlanKardec.Api.csproj",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\NVAlanKardec.Api.csproj",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\NVAlanKardec.Api.csproj",
+              "RelativeToolTip": "NVAlanKardec.Api\\NVAlanKardec.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-24T13:35:43.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Entities\\Aluno.cs",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\Entities\\Aluno.cs",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Entities\\Aluno.cs",
+              "RelativeToolTip": "NVAlanKardec.Api\\Entities\\Aluno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T14:31:20.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NVAlanKardec.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NVAlanKardec.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-25T02:59:04.337Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

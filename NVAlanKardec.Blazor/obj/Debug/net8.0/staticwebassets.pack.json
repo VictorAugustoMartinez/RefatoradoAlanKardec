@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Blazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Blazor\\obj\\Debug\\net8.0\\compressed\\9utteke4yj.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Blazor\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Blazor\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Dev\\NVAlanKardec\\NVAlanKardec.Blazor\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NVAlanKardec.Blazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NVAlanKardec.Blazor.props",
+      "PackagePath": "build\\NVAlanKardec.Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NVAlanKardec.Blazor.props",
+      "PackagePath": "buildMultiTargeting\\NVAlanKardec.Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NVAlanKardec.Blazor.props",
+      "PackagePath": "buildTransitive\\NVAlanKardec.Blazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

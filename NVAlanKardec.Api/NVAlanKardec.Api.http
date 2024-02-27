@@ -1,0 +1,6 @@
+@NVAlanKardec.Api_HostAddress = http://localhost:5101
+
+GET {{NVAlanKardec.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
